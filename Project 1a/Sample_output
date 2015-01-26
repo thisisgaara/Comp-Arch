@@ -1,0 +1,84 @@
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 10
+Start of the loop Start_t = 1119595657257
+End of the loop End_t = 1119595657631
+The Number of clock cycles for execution is 374
+ and the Number of clock cycles for one element is 7.632653
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 100
+Start of the loop Start_t = 1167448302768
+End of the loop End_t = 1167448303428
+The Number of clock cycles for execution is 660
+ and the Number of clock cycles for one element is 13.469388
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 1000
+Start of the loop Start_t = 1197176881901
+End of the loop End_t = 1197176882253
+The Number of clock cycles for execution is 352
+ and the Number of clock cycles for one element is 7.183673
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 10000
+Start of the loop Start_t = 1226838112280
+End of the loop End_t = 1226838112973
+The Number of clock cycles for execution is 693
+ and the Number of clock cycles for one element is 14.142857
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 100000
+Start of the loop Start_t = 1251695947183
+End of the loop End_t = 1251695947546
+The Number of clock cycles for execution is 363
+ and the Number of clock cycles for one element is 7.408163
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 1000000
+Start of the loop Start_t = 1267295530226
+End of the loop End_t = 1267295530919
+The Number of clock cycles for execution is 693
+ and the Number of clock cycles for one element is 14.142857
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 10000000
+Start of the loop Start_t = 1289286595135
+End of the loop End_t = 1289286595652
+The Number of clock cycles for execution is 517
+ and the Number of clock cycles for one element is 10.551020
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 100000000
+Start of the loop Start_t = 1310653573658
+End of the loop End_t = 1310653574318
+The Number of clock cycles for execution is 660
+ and the Number of clock cycles for one element is 13.469388
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 1000000000
+Start of the loop Start_t = 1328575843034
+End of the loop End_t = 1328575843694
+The Number of clock cycles for execution is 660
+ and the Number of clock cycles for one element is 13.469388
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 10000000000
+Start of the loop Start_t = 1339828494741
+End of the loop End_t = 1339828495423
+The Number of clock cycles for execution is 682
+ and the Number of clock cycles for one element is 13.918367
+
+
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ gcc -g -Wall clock_check_with_asm.c
+jill@Jill-HP-Pavilion-dv6-Notebook-PC:~/studies/GIT/Comp-Arch$ ./a.out 100000000000
+Start of the loop Start_t = 1353992090099
+End of the loop End_t = 1353992090825
+The Number of clock cycles for execution is 726
+ and the Number of clock cycles for one element is 14.816327
+
